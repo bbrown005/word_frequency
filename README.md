@@ -1,0 +1,1 @@
+A small Go project for counting word frequencies within strings.
